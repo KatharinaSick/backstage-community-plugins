@@ -24,5 +24,3 @@ both cases, you'll want to configure Jenkins credentials so that you can connect
   Jenkins job
 - Run `yarn install`
 - Run `yarn dev`
-
-[test](../../../examples/entities.yaml)
